@@ -1,5 +1,4 @@
 # Customer-segmentation-analysis
-# Customer Segmentation Analysis
 
 ## Business Problem
 Mall wants to segment customers for targeted marketing campaigns to increase revenue by 15%.
